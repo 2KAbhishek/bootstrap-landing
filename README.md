@@ -16,19 +16,22 @@ Before you begin, ensure you have met the following requirements:
 
 - You have installed the latest version of `<coding_language/dependency/requirement_1>`
 
-## Installing bootstrap-landing
+## Getting bootstrap-landing
 
-To install bootstrap-landing, follow these steps:
+To get bootstrap-landing, follow these steps:
 
 ```bash
 git clone https://github.com/2kabhishek/bootstrap-landing
 cd bootstrap-landing
-<install_command>
 ```
 
 ## Using bootstrap-landing
 
-After cloning the repo, customize according to your needs.
+Clone the repo & customize according to your needs, update the placeholder images and text.
+
+### To-Do
+
+- [ ] Add about page.
 
 Hit the :star: button if you found this useful.
 
