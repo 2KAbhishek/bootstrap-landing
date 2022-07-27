@@ -1,6 +1,6 @@
 <div align = "center">
 
-<h1><a href="https://2kabhishek.github.io/bootstrap-landing">BareMinimum</a></h1>
+<h1><a href="https://2kabhishek.github.io/bootstrap-landing">bootstrap-landing</a></h1>
 
 <a href="https://github.com/2KAbhishek/bootstrap-landing/blob/main/LICENSE">
 <img alt="License" src="https://img.shields.io/github/license/2kabhishek/bootstrap-landing?style=flat&color=eee&label="> </a>
